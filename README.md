@@ -1,4 +1,4 @@
-# Hey, ItzKarizma here!
+# Hello!
 I'm just a CS student diving headfirst into the AI abyss, tryna make machines smarter than my ex’s decisions. I use Linux (Arch btw) and mess with code like it’s my side hustle. Used to rock Windows back in the day, but now it’s all bash and vibes. My GitHub’s a playground for wild ideas and noice algorithms, but mostly *private*, I'm shy... that's why you can't see most of them!  
 
 ## My Arsenal
