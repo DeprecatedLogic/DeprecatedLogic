@@ -14,7 +14,7 @@ I'm just a CS student diving headfirst into the AI abyss, tryna make machines sm
 - **[fundamental-ml-algorithms-in-c](https://github.com/ItzKarizma/fundamental-ml-algorithms-in-c)**: My baby-implementing ML algorithms in C, because Python's for softies. We’re talking k-means, perceptron, and more, all written in C without any ML libraries. Star it or I'll `chown` your heart.
 - The rest is private stuff I'm working on.
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzKarizma&layout=compact&theme=dracula&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeprecatedLogic&layout=compact&theme=dracula&count_private=true)
 
 ---
 
