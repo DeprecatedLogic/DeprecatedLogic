@@ -14,7 +14,7 @@ Most of my projects are private while in development, but the public ones reflec
 ## My Projects
 
 ### [BattleSheep](https://github.com/DeprecatedLogic/BattleSheep)
-First-year group project written fully in Python, with sheep getting savage (beeeh... *ahem*).
+First-year group project written fully in Python, with sheep getting savage (beeeh... *ahem*).  
 Focus:
 - Game logic design and engine implementation
 - Team collaboration via git
@@ -22,7 +22,7 @@ Focus:
 - Command-line UI using blessed
   
 ### [fundamental-ml-algorithms-in-c](https://github.com/DeprecatedLogic/fundamental-ml-algorithms-in-c)
-Implementation of core machine learning algorithms in C without external libraries.
+Implementation of core machine learning algorithms in C without external libraries.  
 Focus:
 - K-means, perceptron, and other foundational algorithms
 - Manual memory management and data structure design
